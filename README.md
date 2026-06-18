@@ -18,7 +18,6 @@ premium Flow prompt optimized for mobile-first advertising.
 -   📱 Instagram / Reels safe area visualization
 -   ✏️ Editable AI-detected content
 -   🔄 Regenerate AI copy suggestions
--   🚀 One-click Flow prompt generation
 -   📦 Exact packaging and branding preservation
 -   🎯 Mobile-first ecommerce optimization
 
